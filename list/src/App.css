@@ -1,0 +1,21 @@
+.App {
+    font-family: Arial, sans-serif;
+
+  }
+  
+  button {
+    margin-left: 10px;
+    cursor: pointer;
+
+
+  }
+.chino{
+   
+    background: linear-gradient(to right, blue,rgb(190, 12, 12));
+    padding: 100px;
+    border-radius: 30px;
+    
+}  
+li{
+    padding: 10px;
+}
